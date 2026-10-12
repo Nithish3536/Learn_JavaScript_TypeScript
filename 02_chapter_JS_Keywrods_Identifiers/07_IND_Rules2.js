@@ -32,3 +32,5 @@ let strName = "string prefix";
 let bActive = true;       // boolean
 let nCount = 5;           // number
 let arrItems = [];        // array
+
+console.log(name, firstName, lastName);
